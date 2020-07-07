@@ -1,6 +1,6 @@
 # PalpiteBox
 
-##Sobre
+## Sobre
 
 O **PalpiteBox** é um aplicativo Web que foi desenvolvido para **coletar** críticas e sugestões dos clientes do estabelicemento que utiliza tal app. Em troca, o cliente recebe um **desconto** em sua próxima compra, conforme a **promoção** do estabelecimento que está em vigor.
 
