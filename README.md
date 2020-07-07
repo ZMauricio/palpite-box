@@ -15,4 +15,4 @@ O **PalpiteBox** é um aplicativo Web que foi desenvolvido para **coletar** crí
 
 ## Agradecimentos
 - Agradeço o Tulio Faria da [devPleno](https://devpleno.com/).
--  [Github Tulio Faria](https://github.com/tuliofaria) 
+-  [Github Tulio Faria](https://github.com/tuliofaria).
